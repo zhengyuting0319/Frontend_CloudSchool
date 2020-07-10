@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66d8aae9-da31-4368-a138-cbd37aa63c6d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d4qZ1nMbxPGeKA59TomXb2FfsQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Frontend_CloudSchool/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\src\components\GotoFloor" />
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\src\components\personal" />
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\static\picture" />
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\static\Floor" />
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\static\icon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huangqianru\Desktop\Frontend_CloudSchool\Frontend_CloudSchool\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d8aae9-da31-4368-a138-cbd37aa63c6d" name="Default Changelist" comment="" />
+      <created>1591694764660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591694764660</updated>
+      <workItem from="1591694767160" duration="1994000" />
+      <workItem from="1591698243494" duration="22000" />
+      <workItem from="1592803499440" duration="7222000" />
+      <workItem from="1592823503386" duration="9815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Frontend_CloudSchool/src/router/index.js</url>
+          <line>38</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
