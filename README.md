@@ -4,4 +4,4 @@
 
 #### This is front-end code implemented by Qianru and Yuting. 
 
-#### *npm install && npm start* to launch.
+#### cd Frontend_CloudSchool/Frontend_CloudSchool/ and use *npm install && npm start* to launch.
